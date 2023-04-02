@@ -1,0 +1,3 @@
+Post apis lecture by zeeshan
+in this project we registered user and then logged in
+ after that we get the user info on the next screen
